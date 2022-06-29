@@ -1,10 +1,35 @@
-total 24
-drwxr-xr-x 2 root root 175 Jun 27 10:13 .
-drwxr-xr-x 6 root root 121 Jun 27 09:23 ..
--rwxr--r-- 1 root root  28 Jun 27 09:34 1-confused_smiley
--rwxr--r-- 1 root root  28 Jun 27 09:49 2-hellofile
--rwxr--r-- 1 root root  40 Jun 27 09:55 3-twofiles
--rwxr--r-- 1 root root  36 Jun 27 10:01 4-lastlines
--rwxr--r-- 1 root root  36 Jun 27 10:04 5-firstlines
--rw-r--r-- 1 root root  12 Jun 27 10:13 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root   0 Jun 27 10:13 ls_cwd_content
+total 132
+drwxr-xr-x 2 root root  4096 Jun 29 14:03 .
+drwxr-xr-x 7 root root   160 Jun 28 02:45 ..
+-rwxr--r-- 1 root root    57 Jun 27 13:56 100-empty_casks
+-rwxr--r-- 1 root root   108 Jun 27 14:01 101-gifs
+-rwxr--r-- 1 root root    39 Jun 27 14:04 102-acrostic
+-rwxr--r-- 1 root root   116 Jun 27 14:07 103-the_biggest_fan
+-rwxr--r-- 1 root root    49 Jun 27 10:37 10-no_more_js
+-rwxr--r-- 1 root root    49 Jun 27 10:40 11-directories
+-rwxr--r-- 1 root root    33 Jun 27 10:44 12-newest_files
+-rwxr--r-- 1 root root    28 Jun 27 10:46 13-unique
+-rwxr--r-- 1 root root    40 Jun 27 10:50 14-findthatword
+-rwxr--r-- 1 root root    42 Jun 27 10:53 15-countthatword
+-rwxr--r-- 1 root root    45 Jun 27 10:59 16-whatsnext
+-rwxr--r-- 1 root root    42 Jun 27 11:02 17-hidethisword
+-rwxr--r-- 1 root root    51 Jun 27 11:04 18-letteronly
+-rwxr--r-- 1 root root    37 Jun 27 11:07 19-AZ
+-rwxr--r-- 1 root root    29 Jun 27 12:11 1-confused_smiley
+-rwxr--r-- 1 root root    24 Jun 27 11:10 20-hiago
+-rwxr--r-- 1 root root    17 Jun 27 11:13 21-reverse
+-rwxr--r-- 1 root root    48 Jun 27 11:16 22-users_and_homes
+-rwxr--r-- 1 root root    28 Jun 27 09:49 2-hellofile
+-rwxr--r-- 1 root root    40 Jun 27 09:55 3-twofiles
+-rwxr--r-- 1 root root    36 Jun 27 10:01 4-lastlines
+-rwxr--r-- 1 root root    40 Jun 27 10:23 6-third_line
+-rwxr--r-- 1 root root   100 Jun 27 10:27 7-file
+-rwxr--r-- 1 root root    37 Jun 27 10:30 8-cwd_state
+-rwxr--r-- 1 root root    38 Jun 27 10:33 9-duplicate_last_line
+-rw-r--r-- 1 root root    12 Jun 29 14:04 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Jun 27 10:13 iacta
+-rw-r--r-- 1 root root     0 Jun 29 14:04 ls_cwd_content
+-rw------- 1 root root 12288 Jun 27 14:17 .swp
+-rw-r--r-- 1 root root     0 Jun 29 14:03 T_A_S_K_S
+-rw-r--r-- 1 root root     0 Jun 29 14:03 T_O_D_A_Y_S
+-rw------- 1 root root 12288 Jun 27 12:02 .T_O_D_A_Y_S.swp
